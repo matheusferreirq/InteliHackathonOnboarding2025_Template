@@ -47,5 +47,3 @@
 
 ---
 
-**Contribua com o projeto!**  
-> Para sugestões, dúvidas ou colaborações, abra uma [_issue_](#) ou envie um [_pull request_](#).
