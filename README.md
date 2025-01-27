@@ -53,8 +53,6 @@
 
 ⚠️ Organização dos Arquivos no Repositório
 
-- Prompts Utilizados no Agente
-
 - Salve todos os prompts usados no agente em um arquivo .txt e adicione-o ao repositório.
 Base de Conhecimentos
 
