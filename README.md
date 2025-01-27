@@ -54,7 +54,6 @@
 ⚠️ Organização dos Arquivos no Repositório
 
 - Salve todos os prompts usados no agente em um arquivo .txt e adicione-o ao repositório.
-Base de Conhecimentos
 
 - Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. 
 
