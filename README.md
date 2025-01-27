@@ -51,8 +51,14 @@
 
 ---
 
-**⚠️ Arquivos no Repositório**  
-> Copie os prompts usados no agente para um .txt e deixe no repositório. 
-> Crie uma pasta chamada Base de Conhecimentos no repositório e coloque todos os conteúdos utilizados.  
+⚠️ Organização dos Arquivos no Repositório
+
+Prompts Utilizados no Agente
+
+Salve todos os prompts usados no agente em um arquivo .txt e adicione-o ao repositório.
+Base de Conhecimentos
+
+Crie uma pasta chamada Base de Conhecimentos no repositório.
+Adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. 
 
 
