@@ -23,7 +23,7 @@
 ---
 
 ## **🤖 Instruções do GPT** 
-> _[Descreva aqui algumas instruções básicas de uso do agente.]
+> _[Descreva aqui algumas instruções básicas de uso do agente.]_
 1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
 2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
 3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
@@ -32,7 +32,7 @@
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]
+> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
 - 🛠️ **Tema 1:** Descrição breve do tema  
 - 🌐 **Tema 2:** Descrição breve do tema  
 - 🔒 **Tema 3:** Descrição breve do tema  
@@ -41,7 +41,7 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]
+> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
