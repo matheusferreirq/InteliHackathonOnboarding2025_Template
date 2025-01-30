@@ -1,10 +1,10 @@
 # *🚀DECISION GUIDE*
 
 ### *🔗 Link do Agente GPT:*  
-> [[Decision Guide](https://chatgpt.com/g/g-679926720cb081919a205eecf98c692e-decision-guide)]
+> [Decision Guide](https://chatgpt.com/g/g-679926720cb081919a205eecf98c692e-decision-guide)
 ---
 
-## *👥 Integrantes do Grupo*  
+## *👥 Integrantes do Grupo 1 AT12*  
 - Eduarda Nunes Dias
 - João Moraes Gutierrez Estevez
 - Luana de Jesus Lima
