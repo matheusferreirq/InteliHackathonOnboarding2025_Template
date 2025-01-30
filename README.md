@@ -1,7 +1,7 @@
 # *🚀DECISION GUIDE*
 
 ### *🔗 Link do Agente GPT:*  
-> [Insira o link do GPT criado aqui.]
+> [[Decision Guide](https://chatgpt.com/g/g-679926720cb081919a205eecf98c692e-decision-guide)]
 ---
 
 ## *👥 Integrantes do Grupo*  
