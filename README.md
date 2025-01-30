@@ -54,7 +54,7 @@ Sempre que um líder responder a um questionamento, o agente dará continuidade 
 ## *📚 Bases de Conhecimento*  
 
 ### *⚠️ Prompts*
-- 📗 [https://docs.google.com/document/d/1GNUOU2pUxMJL92xMK-HNhbNhEvQUbcns5ICa9ooLBEw/edit?usp=sharing]
+- 📗 https://docs.google.com/document/d/1GNUOU2pUxMJL92xMK-HNhbNhEvQUbcns5ICa9ooLBEw/edit?usp=sharing
 
 ### *📘 Principais Referências Utilizadas:*  
 - 📗 [FORBES. 8 em cada 10 líderes têm dificuldade de comandar equipes multigeracionais. Forbes Brasil, 22 nov. 2023. Disponível em: https://forbes.com.br/carreira/2023/11/8-em-cada-10-lideres-tem-dificuldade-de-comandar-equipes-multigeracionais/. Acesso em: 29 jan. 2025.]  
