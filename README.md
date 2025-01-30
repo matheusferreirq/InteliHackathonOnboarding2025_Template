@@ -1,4 +1,4 @@
-# *🚀DECISION MAKER*
+# *🚀DECISION GUIDE*
 
 ### *🔗 Link do Agente GPT:*  
 > [Insira o link do GPT criado aqui.]
@@ -34,6 +34,7 @@ O agente aplicará diferentes frameworks estratégicos, sem repetir excessivamen
 - **Princípio de Pareto (80/20)** (Foco nas ações de maior impacto);
 - **Mapa de Impacto** (Visualização de consequências a curto e longo prazo);
 - **Técnica de Inversão** (Exploração de cenários opostos para gerar novas ideias).
+
 Sempre que um líder responder a um questionamento, o agente dará continuidade à conversa com novas perguntas e provocações estratégicas, garantindo que cada interação seja única e instigante, além de levar o usuário a refletir constantemente. Além disso, caso um utilizador faça perguntas fora do escopo do Decision Maker, o agente responderá:
 "Meu foco é auxiliar líderes na tomada de decisões. Como posso te ajudar com um desafio no seu trabalho?"
 
@@ -66,4 +67,4 @@ Sempre que um líder responder a um questionamento, o agente dará continuidade 
 
 ### *📖 Documentações Complementares:*  
 - 🔗 [*PLANILHA - PROJETO HACKATON*](https://docs.google.com/spreadsheets/d/14k3pOrOdTqWbSgwbJ1OohXr5zseMWcJ8iDk5ZjTfVSk/edit?gid=0#gid=0)
-- 🔗 [*APRESENTAÇÃO - PROJETO HACKATON*](https://docs.google.com/spreadsheets/d/14k3pOrOdTqWbSgwbJ1OohXr5zseMWcJ8iDk5ZjTfVSk/edit?gid=0#gid=0)
+- 🔗 [*APRESENTAÇÃO - PROJETO HACKATON*](https://www.canva.com/design/DAGdmto0Ki8/0SLCX5QV80Z3UqGZLTtCOg/edit)
