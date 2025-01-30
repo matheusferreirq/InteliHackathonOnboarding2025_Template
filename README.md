@@ -18,7 +18,7 @@
 ## *📄 Descrição do Projeto*  
 
 
-> O projeto Decision Maker consiste em um agente de Chat GPT que auxilia líderes em tomadas de decisões nos mais diversos cenários, especialmente naqueles com escopo voltado à tecnologia. Nesse sentido, tal solução objetiva levar esse público-alvo a escolher o melhor caminho em relação à situação a ser resolvida por meio de perguntas reflexivas, sem fornecer respostas prontas, uma vez que a vigente proposta parte do pressuposto de que o pensamento crítico é a base para a consolidação de uma boa liderança. Além disso, é relevante pontuar que o Decision Maker tem como valor a sustentabilidade. Portanto, Decision Maker é mais que um prompt de IA, sendo uma ferramenta que impacta diretamente na resolução de problemáticas reais e relevantes.
+> O projeto Decision Guide consiste em um agente de Chat GPT que auxilia líderes em tomadas de decisões nos mais diversos cenários, especialmente naqueles com escopo voltado à tecnologia. Nesse sentido, tal solução objetiva levar esse público-alvo a escolher o melhor caminho em relação à situação a ser resolvida por meio de perguntas reflexivas, sem fornecer respostas prontas, uma vez que a vigente proposta parte do pressuposto de que o pensamento crítico é a base para a consolidação de uma boa liderança. Além disso, é relevante pontuar que o Decision Guide tem como valor a sustentabilidade. Portanto, Decision Guide é mais que um prompt de IA, sendo uma ferramenta que impacta diretamente na resolução de problemáticas reais e relevantes.
 
 ## *📝 Instruções Básicas de Uso do Agente*
 1. Formule problemas e desafios de forma clara e direta para obter respostas mais eficazes.
@@ -35,7 +35,7 @@ O agente aplicará diferentes frameworks estratégicos, sem repetir excessivamen
 - **Mapa de Impacto** (Visualização de consequências a curto e longo prazo);
 - **Técnica de Inversão** (Exploração de cenários opostos para gerar novas ideias).
 
-Sempre que um líder responder a um questionamento, o agente dará continuidade à conversa com novas perguntas e provocações estratégicas, garantindo que cada interação seja única e instigante, além de levar o usuário a refletir constantemente. Além disso, caso um utilizador faça perguntas fora do escopo do Decision Maker, o agente responderá:
+Sempre que um líder responder a um questionamento, o agente dará continuidade à conversa com novas perguntas e provocações estratégicas, garantindo que cada interação seja única e instigante, além de levar o usuário a refletir constantemente. Além disso, caso um utilizador faça perguntas fora do escopo do Decision Guide, o agente responderá:
 "Meu foco é auxiliar líderes na tomada de decisões. Como posso te ajudar com um desafio no seu trabalho?"
 
 
